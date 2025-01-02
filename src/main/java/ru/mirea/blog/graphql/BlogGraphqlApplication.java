@@ -1,0 +1,13 @@
+package ru.mirea.blog.graphql;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BlogGraphqlApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BlogGraphqlApplication.class, args);
+	}
+
+}
